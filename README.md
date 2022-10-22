@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/96518303/197338386-22258a59-d9f2-409c-ba31-ba231b498257.png)
 - 👋 Hi, I’m Chris Nguyen
 - 👀 I’m interested in Automation Testing
 - 🌱 I’m currently a Automation QC Software
